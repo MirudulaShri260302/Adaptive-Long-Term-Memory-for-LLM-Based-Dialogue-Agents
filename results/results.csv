@@ -1,0 +1,23 @@
+dialogue_id,domain,expected_value,adaptive_memory_accuracy,window_memory_accuracy,summary_memory_accuracy,adaptive_query_correct,window_query_correct,summary_query_correct,adaptive_response,window_response,summary_response
+dialogue_1,food_preferences,vegetarian,1.0,0.0,0.0,1,0,0,You should choose a vegetarian dinner option.,I do not know.,I do not know.
+dialogue_2,scheduling,3pm,1.0,0.0,1.0,1,0,1,Your meeting is at 3pm.,I do not know.,Your meeting is at 3pm.
+dialogue_3,travel_preferences,window,1.0,0.0,1.0,1,0,1,You should choose a window seat.,I do not know.,You should choose a window seat.
+dialogue_4,allergy,peanuts,1.0,0.0,1.0,1,0,1,Choose a dessert that does not contain peanuts.,I do not know.,Choose a dessert that does not contain peanuts.
+dialogue_5,hobbies,painting,1.0,0.0,1.0,1,0,1,You could do a painting-related activity this weekend.,I do not know.,You could do a painting-related activity this weekend.
+dialogue_6,food_preferences,italian,1.0,0.0,1.0,1,0,1,You should choose Italian cuisine.,I do not know.,You should choose Italian cuisine.
+dialogue_7,scheduling,10am,1.0,0.0,1.0,1,0,1,Your meeting is at 10am.,I do not know.,Your meeting is at 10am.
+dialogue_8,travel_preferences,budget,1.0,0.0,1.0,1,0,1,You should book a budget hotel.,I do not know.,You should book a budget hotel.
+dialogue_9,health_constraints,decaf,1.0,0.0,1.0,1,0,1,You should order decaf coffee.,I do not know.,You should order decaf coffee.
+dialogue_10,work_preferences,python,1.0,0.0,1.0,1,0,1,You should practice with Python.,I do not know.,You should practice with Python.
+dialogue_11,food_preferences,vegetarian,1.0,0.0,0.0,1,0,0,You should choose a vegetarian dinner option.,I do not know.,I do not know.
+dialogue_12,scheduling,3pm,1.0,0.0,1.0,1,0,1,Your meeting is at 3pm.,I do not know.,Your meeting is at 3pm.
+dialogue_13,travel_preferences,window,1.0,0.0,1.0,1,0,1,You should choose a window seat.,I do not know.,You should choose a window seat.
+dialogue_14,allergy,peanuts,1.0,0.0,1.0,1,0,1,Choose a dessert that does not contain peanuts.,I do not know.,Choose a dessert that does not contain peanuts.
+dialogue_15,hobbies,painting,1.0,0.0,1.0,1,0,1,You could do a painting-related activity this weekend.,I do not know.,You could do a painting-related activity this weekend.
+dialogue_16,food_preferences,italian,1.0,0.0,1.0,1,0,1,You should choose Italian cuisine.,I do not know.,You should choose Italian cuisine.
+dialogue_17,scheduling,10am,1.0,0.0,1.0,1,0,1,Your meeting is at 10am.,I do not know.,Your meeting is at 10am.
+dialogue_18,travel_preferences,budget,1.0,0.0,1.0,1,0,1,You should book a budget hotel.,I do not know.,You should book a budget hotel.
+dialogue_19,health_constraints,decaf,1.0,0.0,1.0,1,0,1,You should order decaf coffee.,I do not know.,You should order decaf coffee.
+dialogue_20,work_preferences,python,1.0,0.0,1.0,1,0,1,You should practice with Python.,I do not know.,You should practice with Python.
+dialogue_21,food_preferences_update,vegan,1.0,0.0,1.0,1,0,1,You should choose a vegan dinner option.,I do not know.,You should choose a vegan dinner option.
+dialogue_22,schedule_update,4pm,1.0,0.0,1.0,1,0,1,Your meeting is at 4pm.,I do not know.,Your meeting is at 4pm.
