@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dialogue_1",
+    "domain": "food_preferences",
+    "memory_facts": [
+      {"type": "preference", "key": "diet", "value": "vegetarian"}
+    ],
+    "turns": [
+      {"role": "user", "text": "Hi! I recently became vegetarian."},
+      {"role": "assistant", "text": "That's great! I'll keep that in mind."},
+      {"role": "user", "text": "Can you suggest dinner ideas later?"}
+    ]
+  },
+  {
+    "id": "dialogue_2",
+    "domain": "scheduling",
+    "memory_facts": [
+      {"type": "commitment", "key": "meeting_time", "value": "3pm"}
+    ],
+    "turns": [
+      {"role": "user", "text": "Let's schedule our meeting at 3pm tomorrow."},
+      {"role": "assistant", "text": "Sure, I'll remember that."},
+      {"role": "user", "text": "Great! I'll confirm again later."}
+    ]
+  }
+]
