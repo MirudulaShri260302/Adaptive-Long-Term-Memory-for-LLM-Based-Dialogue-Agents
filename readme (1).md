@@ -1,6 +1,6 @@
 # Adaptive Long-Term Memory for LLM-Based Dialogue Agents
 
-**Uttapreksha Patel & Mirudula Shri Muthukumaran — Northeastern University**
+**Uttapreksha Patel & Mirudula Shri Muthukumaran | Northeastern University**
 
 ---
 
