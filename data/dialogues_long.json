@@ -1,0 +1,7702 @@
+[
+  {
+    "id": "dialogue_1",
+    "domain": "food_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "diet",
+        "value": "vegetarian"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "I do not eat meat anymore."
+      },
+      {
+        "role": "assistant",
+        "text": "That's great! I'll keep that in mind."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "What kind of dinner should I eat tonight?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What kind of dinner should I eat tonight?",
+        "expected_key": "diet",
+        "expected_value": "vegetarian"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_2",
+    "domain": "scheduling",
+    "memory_facts": [
+      {
+        "type": "commitment",
+        "key": "meeting_time",
+        "value": "3pm"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Can we meet tomorrow at 3pm?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sure, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "What time is my meeting tomorrow?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What time is my meeting tomorrow?",
+        "expected_key": "meeting_time",
+        "expected_value": "3pm"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_3",
+    "domain": "travel_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "seat_preference",
+        "value": "window"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "I like sitting by the window on flights."
+      },
+      {
+        "role": "assistant",
+        "text": "Got it, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "What kind of seat should I choose for my flight?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What kind of seat should I choose for my flight?",
+        "expected_key": "seat_preference",
+        "expected_value": "window"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_4",
+    "domain": "allergy",
+    "memory_facts": [
+      {
+        "type": "constraint",
+        "key": "allergy",
+        "value": "peanuts"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Peanuts are something I am allergic to."
+      },
+      {
+        "role": "assistant",
+        "text": "Thanks for telling me. I'll keep that in mind."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "user",
+        "text": "What dessert would be safe for me?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What dessert would be safe for me?",
+        "expected_key": "allergy",
+        "expected_value": "peanuts"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_5",
+    "domain": "hobbies",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "hobby",
+        "value": "painting"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Painting is my favorite thing to do as a hobby."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds creative. I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "What hobby-related activity should I do this weekend?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What hobby-related activity should I do this weekend?",
+        "expected_key": "hobby",
+        "expected_value": "painting"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_6",
+    "domain": "food_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "favorite_cuisine",
+        "value": "italian"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Italian food is my favorite."
+      },
+      {
+        "role": "assistant",
+        "text": "Nice, I'll keep that in mind."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "What kind of cuisine should I choose for dinner?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What kind of cuisine should I choose for dinner?",
+        "expected_key": "favorite_cuisine",
+        "expected_value": "italian"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_7",
+    "domain": "scheduling",
+    "memory_facts": [
+      {
+        "type": "commitment",
+        "key": "meeting_time",
+        "value": "10am"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Can we reschedule the meeting to 10am on Friday?"
+      },
+      {
+        "role": "assistant",
+        "text": "Okay, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "What time is my meeting on Friday?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What time is my meeting on Friday?",
+        "expected_key": "meeting_time",
+        "expected_value": "10am"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8",
+    "domain": "travel_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "hotel_type",
+        "value": "budget"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "I like staying in budget hotels."
+      },
+      {
+        "role": "assistant",
+        "text": "Understood, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "What kind of hotel should I book?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What kind of hotel should I book?",
+        "expected_key": "hotel_type",
+        "expected_value": "budget"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_9",
+    "domain": "health_constraints",
+    "memory_facts": [
+      {
+        "type": "constraint",
+        "key": "drink_preference",
+        "value": "decaf"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "These days I stick to decaf coffee."
+      },
+      {
+        "role": "assistant",
+        "text": "Got it, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "What coffee should I order?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What coffee should I order?",
+        "expected_key": "drink_preference",
+        "expected_value": "decaf"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_10",
+    "domain": "work_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "coding_language",
+        "value": "python"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "I prefer using Python for coding interviews."
+      },
+      {
+        "role": "assistant",
+        "text": "Makes sense, I'll keep that in mind."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "user",
+        "text": "Which programming language should I practice with?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "Which programming language should I practice with?",
+        "expected_key": "coding_language",
+        "expected_value": "python"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_11",
+    "domain": "food_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "diet",
+        "value": "vegetarian"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "I do not eat meat anymore."
+      },
+      {
+        "role": "assistant",
+        "text": "That's great! I'll keep that in mind."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "user",
+        "text": "What kind of dinner should I eat tonight?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What kind of dinner should I eat tonight?",
+        "expected_key": "diet",
+        "expected_value": "vegetarian"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_12",
+    "domain": "scheduling",
+    "memory_facts": [
+      {
+        "type": "commitment",
+        "key": "meeting_time",
+        "value": "3pm"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Can we meet tomorrow at 3pm?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sure, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "user",
+        "text": "What time is my meeting tomorrow?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What time is my meeting tomorrow?",
+        "expected_key": "meeting_time",
+        "expected_value": "3pm"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_13",
+    "domain": "travel_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "seat_preference",
+        "value": "window"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "I like sitting by the window on flights."
+      },
+      {
+        "role": "assistant",
+        "text": "Got it, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "user",
+        "text": "What kind of seat should I choose for my flight?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What kind of seat should I choose for my flight?",
+        "expected_key": "seat_preference",
+        "expected_value": "window"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_14",
+    "domain": "allergy",
+    "memory_facts": [
+      {
+        "type": "constraint",
+        "key": "allergy",
+        "value": "peanuts"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Peanuts are something I am allergic to."
+      },
+      {
+        "role": "assistant",
+        "text": "Thanks for telling me. I'll keep that in mind."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "What dessert would be safe for me?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What dessert would be safe for me?",
+        "expected_key": "allergy",
+        "expected_value": "peanuts"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_15",
+    "domain": "hobbies",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "hobby",
+        "value": "painting"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Painting is my favorite thing to do as a hobby."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds creative. I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "What hobby-related activity should I do this weekend?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What hobby-related activity should I do this weekend?",
+        "expected_key": "hobby",
+        "expected_value": "painting"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_16",
+    "domain": "food_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "favorite_cuisine",
+        "value": "italian"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Italian food is my favorite."
+      },
+      {
+        "role": "assistant",
+        "text": "Nice, I'll keep that in mind."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "user",
+        "text": "What kind of cuisine should I choose for dinner?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What kind of cuisine should I choose for dinner?",
+        "expected_key": "favorite_cuisine",
+        "expected_value": "italian"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_17",
+    "domain": "scheduling",
+    "memory_facts": [
+      {
+        "type": "commitment",
+        "key": "meeting_time",
+        "value": "10am"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Can we reschedule the meeting to 10am on Friday?"
+      },
+      {
+        "role": "assistant",
+        "text": "Okay, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "user",
+        "text": "What time is my meeting on Friday?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What time is my meeting on Friday?",
+        "expected_key": "meeting_time",
+        "expected_value": "10am"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_18",
+    "domain": "travel_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "hotel_type",
+        "value": "budget"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "I like staying in budget hotels."
+      },
+      {
+        "role": "assistant",
+        "text": "Understood, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "What kind of hotel should I book?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What kind of hotel should I book?",
+        "expected_key": "hotel_type",
+        "expected_value": "budget"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_19",
+    "domain": "health_constraints",
+    "memory_facts": [
+      {
+        "type": "constraint",
+        "key": "drink_preference",
+        "value": "decaf"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "These days I stick to decaf coffee."
+      },
+      {
+        "role": "assistant",
+        "text": "Got it, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "user",
+        "text": "What coffee should I order?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What coffee should I order?",
+        "expected_key": "drink_preference",
+        "expected_value": "decaf"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_20",
+    "domain": "work_preferences",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "coding_language",
+        "value": "python"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "I prefer using Python for coding interviews."
+      },
+      {
+        "role": "assistant",
+        "text": "Makes sense, I'll keep that in mind."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "user",
+        "text": "Which programming language should I practice with?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "Which programming language should I practice with?",
+        "expected_key": "coding_language",
+        "expected_value": "python"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_21",
+    "domain": "food_preferences_update",
+    "memory_facts": [
+      {
+        "type": "preference",
+        "key": "diet",
+        "value": "vegan"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "I recently became vegetarian."
+      },
+      {
+        "role": "assistant",
+        "text": "That's great! I'll keep that in mind."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "user",
+        "text": "I switched to vegan recently."
+      },
+      {
+        "role": "assistant",
+        "text": "Got it, I'll update that."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I have a lot of assignments this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I was talking to my friend about vacation plans."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "What kind of dinner should I eat tonight?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What kind of dinner should I eat tonight?",
+        "expected_key": "diet",
+        "expected_value": "vegan"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_22",
+    "domain": "schedule_update",
+    "memory_facts": [
+      {
+        "type": "commitment",
+        "key": "meeting_time",
+        "value": "4pm"
+      }
+    ],
+    "turns": [
+      {
+        "role": "user",
+        "text": "Can we meet tomorrow at 3pm?"
+      },
+      {
+        "role": "assistant",
+        "text": "Sure, I'll remember that."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I spent time cleaning my room today."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I was reading about different career options."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "Please update the meeting to 4pm."
+      },
+      {
+        "role": "assistant",
+        "text": "Okay, I'll update the meeting time."
+      },
+      {
+        "role": "user",
+        "text": "I want to be more productive this month."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "Sometimes I just want a quiet day at home."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "I have been busy with classes lately."
+      },
+      {
+        "role": "assistant",
+        "text": "That makes sense."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds productive."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "I can see why you feel that way."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I might go for a walk this evening."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "The weather has been nice this week."
+      },
+      {
+        "role": "assistant",
+        "text": "That seems nice."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "I understand."
+      },
+      {
+        "role": "user",
+        "text": "I want to travel somewhere new this year."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I need to finish some work later today."
+      },
+      {
+        "role": "assistant",
+        "text": "Hopefully that works out well."
+      },
+      {
+        "role": "user",
+        "text": "I have been trying to sleep earlier."
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "Sounds like a good plan."
+      },
+      {
+        "role": "user",
+        "text": "I enjoy listening to music while studying."
+      },
+      {
+        "role": "assistant",
+        "text": "It's good to hear that."
+      },
+      {
+        "role": "user",
+        "text": "I watched a movie yesterday."
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds interesting."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "assistant",
+        "text": "I hope it goes well."
+      },
+      {
+        "role": "user",
+        "text": "Do you think weekends go by too fast?"
+      },
+      {
+        "role": "user",
+        "text": "What time is my meeting now?"
+      },
+      {
+        "role": "assistant",
+        "text": "TEST_RESPONSE_PLACEHOLDER"
+      }
+    ],
+    "test_queries": [
+      {
+        "question": "What time is my meeting now?",
+        "expected_key": "meeting_time",
+        "expected_value": "4pm"
+      }
+    ]
+  }
+]
